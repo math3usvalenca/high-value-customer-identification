@@ -10,7 +10,7 @@ Este projeto utiliza-se de um conjunto de dados com transações reais de um var
 
 Para o problemo de negócio, vamos nomear a empresa de Athena.
 
-A empresa Athena é uma Outlet Multimarcas que comercializa produtos de segunda linha de várias marcas a um preço menor por meio de um e-commerce. O time de marketing da Athena vai lançar um programa de fidelidade para os melhores clientes da base, chamado insiders. Por esse motivo, foi requisitado ao time de dados uma seleção de clientes elegíveis ao programa, usando técnicas avançadas de manipulação de dados. Como resultado deste projeto é esperado a entrega de uma lista de pessoas elegíveis para participar do programa, junto com um relatório respondendo às seguintes perguntas:
+A empresa Athena é uma Outlet Multimarcas que comercializa produtos de segunda linha de várias marcas a um preço menor por meio de um e-commerce. O time de marketing da Athena vai lançar um programa de fidelidade para os melhores clientes da base, chamado "Guild". Por esse motivo, foi requisitado ao time de dados uma seleção de clientes elegíveis ao programa, usando técnicas avançadas de manipulação de dados. Como resultado deste projeto é esperado a entrega de uma lista de pessoas elegíveis para participar do programa, junto com um relatório respondendo às seguintes perguntas:
 
 - **Quem são as pessoas elegíveis para participar do programa Guild ?**
 - **Quantos clientes farão parte do grupo?**
